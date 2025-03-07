@@ -41,6 +41,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/REMUX1.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -52,6 +53,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/REMUX2.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -63,6 +65,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/REMUX3.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -74,6 +77,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Blue-Ray1.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -85,6 +89,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Blue-Ray2.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -96,6 +101,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Blue-Ray3.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -107,6 +113,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Web1.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -118,6 +125,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Web2.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -129,17 +137,19 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Web3.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
       "id": "d4e2f6a7-b3c1-0d1e-2f3a-3b5c4d7e1f9a",
-      "name": "🎭 Web Scene",
+      "name": "Web Scene",
       "pattern": "(?i)^(?=.*\\bWEB[-_.]?(?:DL|RIP)\\b)(?=.*\\b(?:DEFLATE|INFLATE)\\b).*",
       "type": "filter",
       "isEnabled": true,
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/WebScene.png",
       "groupId": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e"
     },
     {
@@ -151,7 +161,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/resolution/Ultra-HD.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/4k.png",
       "groupId": "550e8400-e29b-41d4-a716-446655440000"
     },
     {
@@ -186,7 +196,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/codec/DV.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/DV.png",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
     {
@@ -198,7 +208,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/codec/Plus.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/HDR10Plus.png",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
     {
@@ -210,6 +220,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/HDR10.png",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
     {
@@ -221,7 +232,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/codec/HDR.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/HDR.png",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
     {
@@ -233,6 +244,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/SDR.png",
       "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8"
     },
     {
@@ -244,7 +256,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/codec/Atmos.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/Atmos.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -256,7 +268,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/main/overlays/images/media_info/codec/TrueHD.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/TrueHD.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -268,7 +280,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/refs/heads/main/overlays/images/media_info/codec/DTS-X.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/dtsx.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -280,6 +292,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/dtsHDMA.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -291,7 +304,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/refs/heads/main/overlays/images/media_info/codec/DTS-HD.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/dtsHD.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -303,7 +316,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
-      "imageURL": "https://raw.githubusercontent.com/jmxd/Kometa/refs/heads/main/overlays/images/media_info/codec/DigitalPlus.png",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/DDPLUS.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -315,6 +328,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/dts.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -326,6 +340,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/DD.png",
       "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f"
     },
     {
@@ -337,6 +352,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/71.png",
       "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c"
     },
     {
@@ -348,6 +364,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/61.png",
       "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c"
     },
     {
@@ -359,6 +376,7 @@
       "tagStyle": "filled",
       "tagColor": "#000000",
       "textColor": "#FFFFFF",
+      "imageURL": "https://silver-kheer-22fdf3.netlify.app/images/51.png",
       "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c"
     }
   ]
